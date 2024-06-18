@@ -1,0 +1,175 @@
+[API Trapper      ( 3c0:1c30)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (37cc:43e0)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (30e4:4114)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (30e4:3a54)] ------------------------------------------------------------------------------------------
+[Network Analyzer (30e4:3a54)] Load Network Traffic Analyzers:
+[Network Analyzer (30e4:3a54)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (30e4:3a54)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (30e4:3a54)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (30e4:3a54)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (30e4:3a54)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (30e4:3a54)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (30e4:3a54)]     Analyzer Module: local_server (value=)
+[Network Analyzer (30e4:3a54)] ------------------------------------------------------------------------------------------
+[Network Analyzer (30e4:31c8)] Address lookup for HP-LAP = 192.168.1.53
+[Network Analyzer (30e4:3a54)] Address lookup for HP-LAP = 192.168.1.53
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[API Trapper      (3cf8: 150)] Recording in 64-bit mode: C:\Windows\system32\cmd.exe
+[Network Analyzer (30e4:3a54)] Address lookup for HP-LAP = 192.168.1.53
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[API Trapper      (12ec:3468)] Recording in 64-bit mode: C:\Program Files\Adobe\Acrobat DC\Acrobat\Browser\WCChromeExtn\WCChromeNativeMessagingHost.exe
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2404:6800:4009:0825:0000:0000:0000:2003 - 443  (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2404:6800:4009:081B:0000:0000:0000:2003 - 443  (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (30e4:31c8)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (30e4:31c8)]   (Sid:  1) Client -> Server @ : 729 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid:  1) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (30e4:31c8)]   (Sid:  1) Client -> Server @ : 761 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid:  1) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[API Trapper      (3844:410c)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (30e4: 248)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (30e4: a54)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2404:6800:4003:0C0F:0000:0000:0000:00BC - 5228  (Service=)  (Sid=  5)  PROXIED!
+[Net An. Error    (30e4: a54)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (30e4:31c8)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (30e4:31c8)]   (Sid:  1) Connection Terminated (by Client)
+[Net An. Error    (30e4: 248)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (30e4: 404)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (30e4: 404)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2404:6800:4009:0825:0000:0000:0000:2003 - 443  (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2404:6800:4009:0825:0000:0000:0000:2003 - 443  (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (30e4:3a54)] Address lookup for HP-LAP = 192.168.1.53
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (30e4:23f0)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (30e4:360c)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (30e4:360c)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (30e4:23f0)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (30e4: 404)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2404:6800:4009:082C:0000:0000:0000:200A - 443  (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (30e4: 404)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (30e4: 404)]   (Sid: 10) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (30e4: 404)]   (Sid: 10) Server -> Client : 2043 bytes  (Service=HTTP)
+[Web Request      (30e4: 404)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (30e4: 404)]   (Sid: 10) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (30e4: 404)]   (Sid: 10) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (30e4: 404)]   (Sid: 10) Server -> Client : 865 bytes  (Service=HTTP)
+[Web Request      (30e4: 404)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (30e4: 404)]   (Sid: 10) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (30e4: 4a8)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (30e4: 404)]   (Sid: 10) Server -> Client : 2043 bytes  (Service=HTTP)
+[Web Request      (30e4: 404)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (30e4: 404)]   (Sid: 10) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (30e4: 404)]   (Sid: 10) Server -> Client : 2085 bytes  (Service=HTTP)
+[Web Request      (30e4: 404)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (30e4: 404)]   (Sid: 10) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (30e4: 404)]   (Sid: 10) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (30e4: 404)]   (Sid: 10) Server -> Client : 823 bytes  (Service=HTTP)
+[Network Analyzer (30e4:4124)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2404:6800:4009:082F:0000:0000:0000:200E - 443  (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (30e4: 404)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (30e4: 404)]   (Sid: 10) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (30e4: 404)]   (Sid: 10) Server -> Client : 2085 bytes  (Service=HTTP)
+[Net An. Error    (30e4: 4a8)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (30e4:4124)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (30e4:3e18)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (30e4:3e18)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (30e4:31c8)] "GET /favicon.ico"   
+[Network Analyzer (30e4:31c8)]   (Sid:  8) Client -> Server @ : 635 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid:  8) Server -> Client : 425 bytes  (Service=HTTP)
+[Network Analyzer (30e4: 404)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (30e4: 404)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (30e4: 404)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (30e4: 404)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2404:6800:4009:0804:0000:0000:0000:200A - 443  (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (30e4:3a54)] Address lookup for HP-LAP = 192.168.1.53
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 66.117.22.105:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (30e4:1b0c)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (30e4:1b0c)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (30e4: 684)]   (Sid: 13) SSL handshake with remote server Failed!
+[Network Analyzer (30e4: 404)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (30e4:31c8)]   (Sid:  8) Connection Terminated (by Server)
+[API Trapper      (3014:41d0)] Recording in 64-bit mode: C:\Windows\system32\cmd.exe
+[API Trapper      (17e8:11b4)] Recording in 64-bit mode: C:\Program Files\Adobe\Acrobat DC\Acrobat\Browser\WCChromeExtn\WCChromeNativeMessagingHost.exe
+[Network Analyzer (30e4:3a54)] Address lookup for HP-LAP = 192.168.1.53
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      (30e4:31c8)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Client -> Server @ : 1016 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Client -> Server @ : 886 bytes (Service=HTTP)
+[Network Analyzer (30e4:3a54)] Address lookup for HP-LAP = 192.168.1.53
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Client -> Server @ : 881 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (30e4:3a54)] Request Connection: Remote Server @ 2404:6800:4009:0830:0000:0000:0000:200A - 443  (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (30e4:17b4)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (30e4:17b4)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (30e4:31c8)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Client -> Server @ : 900 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 838 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Client -> Server @ : 903 bytes (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Client -> Server @ : 904 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 281 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (30e4: 404)]   (Sid: 16) Connection Terminated (by Client)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Client -> Server @ : 906 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 813 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Client -> Server @ : 908 bytes (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Client -> Server @ : 891 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 2863 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Client -> Server @ : 904 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 818 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Client -> Server @ : 899 bytes (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Client -> Server @ : 894 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 1153 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Client -> Server @ : 903 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 813 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Client -> Server @ : 908 bytes (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Client -> Server @ : 891 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 2863 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[API Trapper      (1cf0:2cd4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (4264:38c0)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Web Request      (30e4:31c8)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Client -> Server @ : 903 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (30e4:31c8)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Client -> Server @ : 778 bytes (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 1748 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (30e4:31c8)]   (Sid: 14) Connection Terminated (by Server)

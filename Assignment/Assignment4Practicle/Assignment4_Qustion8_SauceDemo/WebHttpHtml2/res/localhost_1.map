@@ -1,0 +1,16 @@
+[DATA_POINT]
+1="tcp_connect"
+2="tcp_connection_count"
+3="mic_recv"
+4="HTTP_200"
+5="tcp_shutdown"
+[END_TRANSACTION]
+1="vuser_init_Transaction"
+2="http://pki.goog/repo/certs/gts1c3.der"
+3="gts1c3.der_Action_4"
+4="http://pki.goog/repo/certs/gtsr1.der"
+5="gtsr1.der_Action_19"
+6="Action_Transaction"
+7="http://update.googleapis.com/service/update2/json?cup2key=14:G4l1bAOZE-y5GOneNIoG7oM-0H0OmGxu6rPCRRCViz4&cup2hreq=a677afed8f5abffc3bb3e8ad04db7a909f6bdf4fad125f568d2a75d09608aae1"
+8="json_Action_132"
+9="vuser_end_Transaction"

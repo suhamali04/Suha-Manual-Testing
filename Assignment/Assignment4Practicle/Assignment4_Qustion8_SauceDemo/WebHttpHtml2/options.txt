@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Admin\Desktop\New folder\WebHttpHtml2
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\admin\desktop\new folder\webhttphtml2\\logfile.log
+c:\users\admin\desktop\new folder\webhttphtml2\\combined_WebHttpHtml2.c
+c:\users\admin\desktop\new folder\webhttphtml2\\pre_cci.c

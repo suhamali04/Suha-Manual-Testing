@@ -1,0 +1,32 @@
+[Scenario]
+Product=HP LoadRunner Controller
+Version=12.50.0.0
+Path=Scenario1
+Subject=
+Result_file=C:\Users\Admin\Desktop\New folder\WebHttpHtml2\res\res.lrr
+Description=
+ResultName=res
+Time_Zone=-19800
+Start_time=1718693876
+Daylight_Bias=0
+Stop_time=1718694001
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 8 Vusers: 4 every 00:00:10 (HH:MM:SS); Run for 00:01:00 (HH:MM:SS); Stop all Vusers: 4 every 00:00:10 (HH:MM:SS)
+Load Behavior=Initialize 4 Vusers every 00:00:10 (HH:MM:SS)
+[Scripts]
+WebHttpHtml2=C:\Users\Admin\Desktop\New folder\WebHttpHtml2\WebHttpHtml2.usr
+[Scripts_types]
+WebHttpHtml2=Multi+QTWeb

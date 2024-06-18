@@ -1,0 +1,2 @@
+[Hosts]
+localhost=C:\Users\Admin\Desktop\New folder\WebHttpHtml1\res\localhost_1.eve
